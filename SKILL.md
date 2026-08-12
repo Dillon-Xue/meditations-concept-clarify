@@ -1,6 +1,13 @@
 ---
 name: meditations-concept-clarify
+slug: meditations-concept-clarify
+version: 1.0.0
+displayName: 概念提纯炉·定义锻造
 description: 面对糊里糊涂的概念（如“自由”“自我”“好产品”），想从含混常识提纯为清晰定义时，给出先抛猜想再据反驳修改、跨阶段逐步加属性去矛盾的步骤。
+summary: “自由”“好产品”越想越糊涂？用猜想—反驳循环把模糊概念提纯成清晰定义。
+tags: [概念澄清, 定义, 模糊概念, 澄清, 思辨, 精确, 歧义, 本质属性, 范畴, 用词, 思维清晰, 提纯]
+homepage: https://github.com/Dillon-Xue/meditations-concept-clarify
+license: MIT
 ---
 
 # 概念澄清与渐进逼近
